@@ -1,14 +1,13 @@
 {
-    "name": "jonnyw/php-phantomjs",
-    "description": "A PHP wrapper for loading pages through PhantomJS",
+    "name": "charlestide/php-phantomjs",
+    "description": "forked from jonnnnyw/php-phantomjs",
     "keywords": ["PhantomJS", "Testing", "Headless Browser"],
 	"type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Jonny Wenmoth",
-            "email": "contact@jonnyw.me",
-            "homepage": "http://jonnyw.me/"
+            "name": "Charles.Tide",
+            "email": "charlestide@vip.163.com"
         }
     ],
     "minimum-stability": "stable",
